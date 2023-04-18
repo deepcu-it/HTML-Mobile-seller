@@ -1,0 +1,27 @@
+.heading{
+    text-align:center;
+    padding:2%;
+
+}
+.navbar{
+    background-color:yellow;
+    color:black;
+}
+.navedit{
+    background-color:yellow;
+    padding:1%;
+    border:1px solid black;
+}
+.nav-item:hover{
+    background-color:pink;
+}
+.textedit{
+    color:black;
+}
+.removelist{
+    list-style-type:none;
+}
+.spacediv{
+    background-color:rgb(137, 80, 11);
+    padding:1%;
+}
